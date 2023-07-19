@@ -28,6 +28,8 @@
 - [Instagram](https://www.instagram.com/mariaxclarisse/)
 
 - [Facebook](https://www.facebook.com/clarisse.macapallag)
+  
+- [LinkedIn](https://www.linkedin.com/in/maria-clarisse-macapallag/)
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mariaxclarisse&show_icons=true&locale=en" alt="mariaxclarisse" /></p>
