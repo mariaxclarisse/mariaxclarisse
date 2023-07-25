@@ -1,17 +1,11 @@
 ## Hey, I'm Clarisse 👋
 
 - 👩‍💻 A Computer Science student major in Intelligent Systems
-
 - ⭐ Student leader and patriot scholar
-
 - 💁‍♀️ Woman in STEM
-
 - 🌱 I'm currently learning NLP, machine learning algorithms, neural networks, and computer vision.
-
 - 💡 I'm interested in machine learning, software development, web development, and project management.
-
 - 📫 How to reach me: macapallagclarisse@gmail.com
-
 - 🌼 Pronouns: she/her
 
 
@@ -24,9 +18,7 @@
 
 
 ## Connect with me! 🔗
-
 - [Instagram](https://www.instagram.com/mariaxclarisse/)
-
 - [Facebook](https://www.facebook.com/clarisse.macapallag)
   
 
